@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+
+# Jupyter-Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+_*.ipynb
+
+# Mac
+.DS_Store
+
+# Django
+db.sqlite3
+
+### VisualStudioCode ###
+.vscode/
+
+# Data
+data/
+
+*.csv
+*.json
+*.pkl
+
+# Private
+private.py
+
+# Assets
+bp/
